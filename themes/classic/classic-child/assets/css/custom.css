@@ -1,0 +1,4 @@
+/* Entrez le CSS personnalisé de votre thème enfant ici */
+h1, h2, h3 {
+	color: red;
+}

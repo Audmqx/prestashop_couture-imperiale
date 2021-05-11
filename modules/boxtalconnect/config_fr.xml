@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>boxtalconnect</name>
+    <displayName><![CDATA[Boxtal Connect]]></displayName>
+    <version><![CDATA[1.2.6]]></version>
+    <description><![CDATA[Vos exp&eacute;ditions plus simples avec le module gratuit Boxtal ! Gagnez du temps et profitez de tarifs n&eacute;goci&eacute;s chez 15 transporteurs : Colissimo, Relais...]]></description>
+    <author><![CDATA[Boxtal]]></author>
+    <tab><![CDATA[shipping_logistics]]></tab>
+	<confirmUninstall><![CDATA[Êtes-vous de vouloir désinstaller ?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
